@@ -4,19 +4,17 @@ language: en
 
 # main menu navigation
 menu:
-  Home: index.html
-  Archives: archives
-  Tags: tags
-  Categories: categories
-  About: about
-  Github: https://github.com/stiekel/hexo-theme-random
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  About: /about
 
-social:
-  GitHub: https://github.com/stiekel/hexo-theme-random
-  Coding.NET: https://coding.net/u/Stiekel
-  Twitter: https://twitter.com/SidCN
-  Weibo: http://weibo.com/sidcn
-  DouBan: http://www.douban.com/people/Stiekel/
+#social:
+#  GitHub: https://github.com/stiekel/hexo-theme-random
+#  Coding.NET: https://coding.net/u/Stiekel
+#  Twitter: https://twitter.com/SidCN
+#  Weibo: http://weibo.com/sidcn
+#  DouBan: http://www.douban.com/people/Stiekel/
 
 # Google analytics
 google_analytics:
@@ -40,7 +38,7 @@ jiathisConfig:
 
 
 # Miscelaneous
-favicon: /favicon.ico
+favicon: /images/favicon.png
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -81,11 +79,11 @@ turnoffBackgroundImage:
 backgroundColor: 34495E
  
 backgroundImages:
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_1.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_2.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_3.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_4.jpg?imageView2/1/w/__width__/h/__height__
-# - http://7te9fe.com1.z0.glb.clouddn.com/bgimg_5.jpg?imageView2/1/w/__width__/h/__height__
+ - /images/bg1.jpg
+ - /images/bg2.jpg
+ - /images/bg3.jpg
+ - /images/bg4.jpg
+ - /images/bg5.jpg
 
 vegasConfig:
   # more about config http://vegas.jaysalvat.com/documentation/settings/
@@ -111,7 +109,7 @@ unsplashConfig:
   gravity: 'north' # north, east, south, west, center
   # greyscale: true
 
-avatar: http://7te9fe.com1.z0.glb.clouddn.com/default_avatar.jpg
+avatar: /images/logo.jpg
 
 # do not like fancybox, set this as false, this will turn it off
 fancybox: true

@@ -48,8 +48,7 @@
 
   <div id="bottom-outer">
     <div id="bottom-inner">
-      Site by {{ config.author }} using
-      <a href="http://hexo.io">Hexo</a> & <a href="https://github.com/stiekel/hexo-theme-random">Random</a>
+      Site by {{ config.author }} 
       <br>
       {% if config.since %}
         &copy;
