@@ -1,7 +1,7 @@
 ---
 title: Senator Minority Innovator Chuck Schumer Wishes FDA Regulations Sped Back Up
 date: 2018-8-10 10:25:00
-category: Latest Vape News
+category: latest vape news
 ---
 
 ![](/images/3.jpg)
