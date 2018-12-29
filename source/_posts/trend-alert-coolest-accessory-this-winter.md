@@ -4,9 +4,11 @@ date: 2018-12-29 17:03:00
 category: latest vape news
 ---
 
+### This time round, we noticed this one wardrobe staple that is making its rounds and even the celebrities have picked it up.
+
 We always look to the fashion icons or celebrities to spot the next trending outfit or accessory since they are always ahead of the trends. This time round, we noticed this one wardrobe staple that is making its rounds and even the celebrities have picked it up.
 
-### Newsboy Hat
+#### Newsboy Hat
 
 Emerging in the 19th century, these old school caps have made a big come back in the 2000s. A newsboy hat is similar to the flat cap. These round and full caps have panels and a button on top attaching the front of the hat to the brim. Gracing the heads of many affluent men and women, fashion houses have embraced the traditional men’s caps. Many high street
 retailers also stock newsboy or baker boy caps.
@@ -17,7 +19,7 @@ retailers also stock newsboy or baker boy caps.
 
 <!-- more -->
 
-### E-Cigarette
+#### E-Cigarette
 
 Celebrities’ using electronic cigarettes is nothing new. In fact, most people learned of electronic alternative cigarettes because Hollywood A-list stars were seen using them everywhere all the time. These days, celebs continue to get into high [vaping technology](http://www.feelmtech.com/) e-cigarettes, enjoy the pleasure they crave without the hang-ups that come with smoking, like yellow teeth, extra wrinkles, and health problems.
 
@@ -27,7 +29,7 @@ Moreover, as the design of e-cigarette has become more and more sleek and fashio
 ![](/images/10.png)
   </center>
 
-### A versatile fragrance
+#### A versatile fragrance
 
 Strictly speaking, a fragrance isn’t a wardrobe accessory – but it’ll certainly help elevate an outfit to new heights. An exceptionally personal statement will let others know about your tastes and what type of man you are. In addition, in this age where we move from home to restaurant by way of the office, having a small bottle that can be stored away in a bag and sprayed on-the-go will serve you well in the long-term.
 
