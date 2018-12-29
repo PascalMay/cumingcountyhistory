@@ -1,7 +1,7 @@
 ---
 title: The Evolution Of Vaping - How Things Attended Full Circle
 date: 2018-9-20 08:00:00
-category: Vape Life
+category: vape life
 ---
 
 ![](/images/1.jpg)
