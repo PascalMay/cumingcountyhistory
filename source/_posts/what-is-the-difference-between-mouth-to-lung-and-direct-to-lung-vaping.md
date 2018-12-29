@@ -1,7 +1,7 @@
 ---
 title: What is The Difference Between Mouth to Lung and Direct To Lung Vaping
 date: 2018-9-27 18:55:00
-category: Vape Tech Support
+category: vape tech support
 ---
 
 ![](/images/8.jpg)
