@@ -1,7 +1,7 @@
 ---
 title: True or False Popular Myths About Vaping
 date: 2018-8-15 11:00:00
-category: Latest Vape News
+category: latest vape news
 ---
 
 ![](/images/4.jpg)
