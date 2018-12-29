@@ -1,5 +1,5 @@
 ---
-title: Trend Alert: Coolest Accessory this Winter
+title: Trend Alert Coolest Accessory this Winter
 date: 2018-12-29 17:03:00
 category: latest vape news
 ---
