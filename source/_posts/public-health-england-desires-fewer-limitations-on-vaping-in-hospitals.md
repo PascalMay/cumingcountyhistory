@@ -1,7 +1,7 @@
 ---
 title: Public Health England Desires Fewer Limitations On Vaping In Hospitals
 date: 2018-9-19 09:30:00
-category: Vape Life
+category: vape life
 ---
 
 ![](/images/2.jpg)
