@@ -13,6 +13,8 @@ retailers also stock newsboy or baker boy caps.
 
 ![](/images/9.png)
 
+<!-- more -->
+
 ### E-Cigarette
 
 Celebrities’ using electronic cigarettes is nothing new. In fact, most people learned of electronic alternative cigarettes because Hollywood A-list stars were seen using them everywhere all the time. These days, celebs continue to get into high [vaping technology](http://www.feelmtech.com/) e-cigarettes, enjoy the pleasure they crave without the hang-ups that come with smoking, like yellow teeth, extra wrinkles, and health problems.
