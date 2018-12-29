@@ -1,7 +1,7 @@
 ---
 title: TFV12 Prince Imitation Scam 
 date: 2018-9-16 15:15:00
-category: Sub Ohm Tanks
+category: sub ohm tanks
 ---
 
 ![](/images/7.jpg)
