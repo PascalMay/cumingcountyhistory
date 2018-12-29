@@ -11,7 +11,9 @@ We always look to the fashion icons or celebrities to spot the next trending out
 Emerging in the 19th century, these old school caps have made a big come back in the 2000s. A newsboy hat is similar to the flat cap. These round and full caps have panels and a button on top attaching the front of the hat to the brim. Gracing the heads of many affluent men and women, fashion houses have embraced the traditional men’s caps. Many high street
 retailers also stock newsboy or baker boy caps.
 
+<center>
 ![](/images/9.png)
+ </center>
 
 <!-- more -->
 
@@ -21,7 +23,9 @@ Celebrities’ using electronic cigarettes is nothing new. In fact, most people 
 
 Moreover, as the design of e-cigarette has become more and more sleek and fashion, it becomes a popular accessory in Hollywood. For example, Leonardo DiCaprio is a well-known vaping enthusiast since the industry boomed. Remember to pick those with advanced pod system. [FEELM](http://www.feelmtech.com/) Tech introduced innovative metal film heating into the pod system. Such design creates an extraordinary broad heating surface that can intelligently apply the controlled temperature, ensuring instant vapor production and true flavor.
 
+<center>
 ![](/images/10.png)
+  </center>
 
 ### A versatile fragrance
 
@@ -29,4 +33,6 @@ Strictly speaking, a fragrance isn’t a wardrobe accessory – but it’ll cert
 
 Temperature has impact on the way cologne is perceived. In the cold, it makes it harder for them to evaporate, that is why you wouldn’t want to wear a citrus scent which will eventually become too pungent. In the fall and winter, you’ll be yearning for warmth and comfort, so the best tones for the cooler months would be amber, wood sage, or more spice.
 
+<center>
 ![](/images/11.jpg)
+  </center>
